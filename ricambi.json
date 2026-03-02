@@ -968,6 +968,14 @@
     "modello": ""
   },
   {
+    "codice": "STAMP-KIT-NIP01",
+    "nome": "Kit stampante Nippon completa di mascherina",
+    "categoria": "cablaggi e staffe di fissaggio",
+    "prezzo": "",
+    "link_img": "350",
+    "modello": ""
+  },
+  {
     "codice": "2-00-0138-01",
     "nome": "Sonda NG6 3.0MT  NTC da 40 gradi a 110 gradi - EVTPN630F200",
     "categoria": "ELETTRONICA",
@@ -1696,6 +1704,14 @@
     "modello": ""
   },
   {
+    "codice": "MON-016",
+    "nome": "Monitor 21.5\" per Tabacchi",
+    "categoria": "ELETTRONICA",
+    "prezzo": "780",
+    "link_img": "",
+    "modello": "DS40"
+  },
+  {
     "codice": "MTR-02",
     "nome": "MOTORE SPORTELLO RITIRO PRODOTTO DP60-18-16-8",
     "categoria": "ELETTRONICA",
@@ -2296,6 +2312,14 @@
     "modello": ""
   },
   {
+    "codice": "DD18_163A",
+    "nome": "placca montaggio maniglia DP60-40-18",
+    "categoria": "MECCANICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
     "codice": "DD18-037",
     "nome": "STAFFA LUCCHETTO DP18",
     "categoria": "MECCANICA",
@@ -2316,14 +2340,6 @@
     "nome": "MODIFICA SCIVOLO RENDI RESTO DP18",
     "categoria": "MECCANICA",
     "prezzo": "5.0",
-    "link_img": "",
-    "modello": ""
-  },
-  {
-    "codice": "DD18_163A",
-    "nome": "placca montaggio maniglia DP60-40-18",
-    "categoria": "MECCANICA",
-    "prezzo": "45.0",
     "link_img": "",
     "modello": ""
   },
@@ -3376,18 +3392,18 @@
     "modello": ""
   },
   {
-    "codice": "3025752*",
-    "nome": "KIT RASPBERRY DP8",
-    "categoria": "PERIFERICHE",
-    "prezzo": "",
-    "link_img": "",
-    "modello": ""
-  },
-  {
     "codice": "3025752.",
     "nome": "KIT RASPBERRY DP18",
     "categoria": "PERIFERICHE",
     "prezzo": "90.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3025752*",
+    "nome": "KIT RASPBERRY DP8",
+    "categoria": "PERIFERICHE",
+    "prezzo": "",
     "link_img": "",
     "modello": ""
   },
@@ -4357,14 +4373,6 @@
     "categoria": "VETRO",
     "prezzo": "330.0",
     "link_img": "",
-    "modello": ""
-  },
-  {
-    "codice": "STAMP-KIT-NIP01",
-    "nome": "Kit stampante Nippon completa di mascherina",
-    "categoria": "cablaggi e staffe di fissaggio",
-    "prezzo": "",
-    "link_img": "350",
     "modello": ""
   }
 ]
