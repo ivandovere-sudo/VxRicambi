@@ -1,0 +1,4370 @@
+[
+  {
+    "codice": "0365579#",
+    "nome": "PIEDISTALLO DP18",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0365579#.",
+    "nome": "PIEDISTALLO DP18 IN CATAFORESI",
+    "categoria": "ACCESSORI",
+    "prezzo": "290.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-02-0016-00",
+    "nome": "Rotolo termico 35mm D70 x stampante TG35-T",
+    "categoria": "ACCESSORI",
+    "prezzo": "8.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3009172",
+    "nome": "KIT POS DUO INGENICO PER DP60 EX (POS-004)",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3009172-",
+    "nome": "KIT POS DUO INGENICO PER DP40 EX (POS-005)",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3113178.",
+    "nome": "TETTOIA DP60 + LOCKER",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "8-KIT-QR",
+    "nome": "Kit Faramacomodo per macchine DDX",
+    "categoria": "ACCESSORI",
+    "prezzo": "185.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "943BT090700333",
+    "nome": "IUC 250 LETTORE",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "944BT140000002",
+    "nome": "MODULO MDB PER DUO",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "946BT140900733",
+    "nome": "PIN PAD LE",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ADES-38",
+    "nome": "ETICHETTE NUERAZIONE DA 10 A 69",
+    "categoria": "ACCESSORI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ADES-83",
+    "nome": "ETICHETTE NUERAZIONE DA 10 A 42 - cassetti con led prezzi",
+    "categoria": "ACCESSORI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ADES-84",
+    "nome": "ETICHETTE NUERAZIONE DA 10 A 69 - cassetti con led prezzi",
+    "categoria": "ACCESSORI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ADES-87",
+    "nome": "Adesivo POS DP40",
+    "categoria": "ACCESSORI",
+    "prezzo": "3.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ADES-88",
+    "nome": "Adesivo POS DP60",
+    "categoria": "ACCESSORI",
+    "prezzo": "3.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ADES-89",
+    "nome": "ADESIVO CONTACTLESS DP60-40",
+    "categoria": "ACCESSORI",
+    "prezzo": "1.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "AL-16",
+    "nome": "ALETTE RAFFREDDAMENTO RASPBERRY PI3",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "COM.021.001.00161",
+    "nome": "POWERLINE",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD40-AD-00",
+    "nome": "ADESIVO COVID FREE VENDING",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-KIT-98-R",
+    "nome": "KIT SELF 2000 SU DD60T",
+    "categoria": "ACCESSORI",
+    "prezzo": "950.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-KIT-99-R",
+    "nome": "KIT SELF 4000 SU DD60T",
+    "categoria": "ACCESSORI",
+    "prezzo": "1100.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP10-KIT-02",
+    "nome": "KIT ADESIVI PREZZI PRODOTTO",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-08",
+    "nome": "KIT RIDUZIONE SILOS DP18/16/8",
+    "categoria": "ACCESSORI",
+    "prezzo": "20.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-17",
+    "nome": "Toppa chiusura NAYAX DP18",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-KIT-01",
+    "nome": "TETTOIA DP30",
+    "categoria": "ACCESSORI",
+    "prezzo": "210.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-KIT-03",
+    "nome": "KIT CAVI E SWITCH DA ABBINARE A POS-001",
+    "categoria": "ACCESSORI",
+    "prezzo": "50.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-KIT-00",
+    "nome": "TETTOIA DP40 COMPLETA DI ACCESSORI",
+    "categoria": "ACCESSORI",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-KIT-01",
+    "nome": "KIT PLACCHE E CAVI PER NAYAX DA ABBINARE A POS-001",
+    "categoria": "ACCESSORI",
+    "prezzo": "110.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-KIT-98-R",
+    "nome": "KIT SELF 2000 SU DP40",
+    "categoria": "ACCESSORI",
+    "prezzo": "950.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-KIT-99-R",
+    "nome": "KIT POS SELF 4000 PER DP40",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-222-1",
+    "nome": "PALO PER FISSAGGIO DP60/40",
+    "categoria": "ACCESSORI",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-02",
+    "nome": "KIT ADESIVI PREZZI PRODOTTO DP60",
+    "categoria": "ACCESSORI",
+    "prezzo": "11.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-04",
+    "nome": "PARATIA CASSETTO SPINTORE ASS. CON 2 MOLLE",
+    "categoria": "ACCESSORI",
+    "prezzo": "6.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-17",
+    "nome": "KIT PLACCHE E CAVI PER NAYAX DA ABBINARE A POS-001",
+    "categoria": "ACCESSORI",
+    "prezzo": "110.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-98-R",
+    "nome": "KIT SELF 2000 SU DP60",
+    "categoria": "ACCESSORI",
+    "prezzo": "950.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-99-R",
+    "nome": "KIT POS SELF 4000 PER DP60",
+    "categoria": "ACCESSORI",
+    "prezzo": "1110.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP-KIT-MAN",
+    "nome": "Kit avviso manutenzioni periodiche: Adesivo + brugola",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP40-RR-RIC",
+    "nome": "KIT RENDI RESTO SU DP40 AL POSTO DEL DPO",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP40-RR-RIC + MCV495",
+    "nome": "KIT RENDI RESTO SU DP40 AL POSTO DEL DPO (CON PROLUNGA MDB)",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GETT-011",
+    "nome": "FRONTALE FRESATO PER DP10",
+    "categoria": "ACCESSORI",
+    "prezzo": "7.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "IMP-V7",
+    "nome": "IMPILATORE LETTORE BANCONOTE MOD. V7",
+    "categoria": "ACCESSORI",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "KIT-001",
+    "nome": "KIT CONNESSIONE TELTONIKA (DR MAX)",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "KIT-DP60-DUO-INGENICO R",
+    "nome": "KIT POS SELF DUO PER DP60",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "LUCCH-4115",
+    "nome": "Lucchetto Viro Panzer 4115 - DP18-16-8",
+    "categoria": "ACCESSORI",
+    "prezzo": "69.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV990",
+    "nome": "CAVO USB A/B",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH566-CPT",
+    "nome": "KIT MODIFICA GETTONIERA",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MO1001",
+    "nome": "Chiavetta USB flash drive2 GB con chiusura in metallo serigrafata",
+    "categoria": "ACCESSORI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "POS-001-N",
+    "nome": "Contact Less NYAX DP60",
+    "categoria": "ACCESSORI",
+    "prezzo": "450.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "POS-001-N1",
+    "nome": "Contact Less NYAX DP40",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "POS-002",
+    "nome": "TRIO INGENICO + CABLAGGIO MDB - DP60",
+    "categoria": "ACCESSORI",
+    "prezzo": "1550.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "POS-003",
+    "nome": "TRIO INGENICO + CABLAGGIO MDB - DP40",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "POS-006",
+    "nome": "VPOS TOUCH NAYAX",
+    "categoria": "ACCESSORI",
+    "prezzo": "500.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "POS-ING-001",
+    "nome": "INGENICO SELF 2000",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "POS-ING-MDB01",
+    "nome": "MODULO MDB PER SELF2000/4000",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "PPT-082-DUO",
+    "nome": "PIASTRA SUPP. DUO PPT",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "PPT-930",
+    "nome": "PLEXI PER POS DUO PPT",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB40003",
+    "nome": "CARTA TERMICA 35MM DP14-7-4 PAYTEC (4 ROTOLI)",
+    "categoria": "ACCESSORI",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SCA-EM20-80 + SCA-CBL115U",
+    "nome": "SCANNER QRCODE + CABLAGGIO",
+    "categoria": "ACCESSORI",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SCH-024",
+    "nome": "MODEM TELTONIKA GPRS",
+    "categoria": "ACCESSORI",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STAMP-004",
+    "nome": "FERMO CARTA SANEI",
+    "categoria": "ACCESSORI",
+    "prezzo": "5.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SUPP-DIST",
+    "nome": "DISTANZIALE SPINTORI DP60-40-30",
+    "categoria": "ACCESSORI",
+    "prezzo": "0.75",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "XS-106",
+    "nome": "MOLLA PLASTICA PER PARATIE DP60-30-40",
+    "categoria": "ACCESSORI",
+    "prezzo": "2.5",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-DD-PORT-00",
+    "nome": "Adesivo sportello ritiro prodotti CEF per DP18",
+    "categoria": "ADESIVI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1017",
+    "nome": "Cavo CCTalk MH541A > MH541C - DS60",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1019",
+    "nome": "Cavo Power 12V MH541A > MH541C - DS60",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1029",
+    "nome": "CAVO CCTALK PER TASTIERE DP8 NEW",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1151",
+    "nome": "CAVO BARRIERA OTTICA DP40",
+    "categoria": "CABLAGGI",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1197",
+    "nome": "Cavo di alimentazione +12V illuminatori led MH522 > MH527",
+    "categoria": "CABLAGGI",
+    "prezzo": "0.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1198",
+    "nome": "CAVO ALIMENTAZIONE LED RETRO ETICHETTE PRODOTTI DP18",
+    "categoria": "CABLAGGI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1220",
+    "nome": "Cavo Stampante RS232 > Stampante TG02 - L. cm.55",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1223",
+    "nome": "CAVO LUNGO PER STAMPANTE TG02 SU DP60 CON POS",
+    "categoria": "CABLAGGI",
+    "prezzo": "20.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1307",
+    "nome": "Cavo Seriale/RS232 per stampante Sanei su DP18/40/60",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV1494",
+    "nome": "CAVO CCTALK 200CM CASSETTI",
+    "categoria": "CABLAGGI",
+    "prezzo": "7.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV381",
+    "nome": "CAVO PROG. MH521-522",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV416",
+    "nome": "CABLAGGIO MOTORI - DP16",
+    "categoria": "CABLAGGI",
+    "prezzo": "57.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV421",
+    "nome": "CABLAGGIO GETTONIERA DP16-DP8",
+    "categoria": "CABLAGGI",
+    "prezzo": "8.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "MCV422",
+    "nome": "CAVO CAN BUS 434-465 - DP16",
+    "categoria": "CABLAGGI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV427",
+    "nome": "CAVO CAN BUS 430-465 - DP16",
+    "categoria": "CABLAGGI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV431",
+    "nome": "CABLAGGIO HOPPER - DP16",
+    "categoria": "CABLAGGI",
+    "prezzo": "7.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV459",
+    "nome": "CAVO PROG. MH430",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV495",
+    "nome": "CABLAGGIO MDB SDOPPIATORE PER INSTALLAZIONE POS",
+    "categoria": "CABLAGGI",
+    "prezzo": "20.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV526",
+    "nome": "Cavo programmazione MH534",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV576",
+    "nome": "Cavo DP18 display lcd 240x128",
+    "categoria": "CABLAGGI",
+    "prezzo": "5.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV592-1",
+    "nome": "CABLAGGIO BARRIERA OTTICA MH521",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV592-2",
+    "nome": "CABLAGGIO TRA RICEVENTE E TRASMITTENTE",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV593",
+    "nome": "CAVO CANBUS MH430-MH522",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV599-1",
+    "nome": "DP60 Swicth chiave allarme  - MH522 cm.10",
+    "categoria": "CABLAGGI",
+    "prezzo": "8.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV603-P1",
+    "nome": "Cavo Seriale LUNGO per TG02",
+    "categoria": "CABLAGGI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV604-P2",
+    "nome": "Cavo Alimentazione LUNGO per TG02",
+    "categoria": "CABLAGGI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV605",
+    "nome": "CAVO CCTALK DA MH528 A MH430 PER DP60",
+    "categoria": "CABLAGGI",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV609",
+    "nome": "CAVO POWER 12V MH527-MH522",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV625",
+    "nome": "DP60 CABLAGGIO MH529 -> MOTORE GHIGLIOTTINA",
+    "categoria": "CABLAGGI",
+    "prezzo": "8.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV627",
+    "nome": "DP60 CABLAGGIO FINE CORSA POSTERIORE",
+    "categoria": "CABLAGGI",
+    "prezzo": "3.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "MCV628",
+    "nome": "DP60 CABLAGGIO FINE CORSA ANTERIORE",
+    "categoria": "CABLAGGI",
+    "prezzo": "3.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "MCV632",
+    "nome": "DP60 CABLAGGIO CASS. DP60",
+    "categoria": "CABLAGGI",
+    "prezzo": "4.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV635",
+    "nome": "Cavo Spintori",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV669",
+    "nome": "KIT CABLAGGIO MOTORI DP18 E DP18 TOUCH",
+    "categoria": "CABLAGGI",
+    "prezzo": "32.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV670",
+    "nome": "Cabl. dp18 stampante rs232",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV671",
+    "nome": "Cabl. dp18 stampante power per stampante TG02",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV677",
+    "nome": "Cabl. DP18 motorino sportello ritiro prodotti",
+    "categoria": "CABLAGGI",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV682.1",
+    "nome": "Cabl. DP18/DP40 switch chiave allarme mh522 - 1M",
+    "categoria": "CABLAGGI",
+    "prezzo": "8.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV683",
+    "nome": "Cabl. DP18 - DT50  gruppo batterie vers.1.01",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV690",
+    "nome": "CABLAGGIO HOPPER 1 DP18 E DP18 TOUCH",
+    "categoria": "CABLAGGI",
+    "prezzo": "3.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "MCV691",
+    "nome": "CABLAGGIO HOPPER 2 DP18 E DP18 TOUCH",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV692",
+    "nome": "CABLAGGIO CCTALK GETTONIERA DP18 TASTI",
+    "categoria": "CABLAGGI",
+    "prezzo": "3.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "MCV695",
+    "nome": "KIT CABLAGGIO TASTIERE DP18",
+    "categoria": "CABLAGGI",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV698",
+    "nome": "CABLAGGIO ALIM. MONITOR TOUCH",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV712",
+    "nome": "CABLAGGIO CCTALK GETTONIERA DP18 TOUCH",
+    "categoria": "CABLAGGI",
+    "prezzo": "4.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV744",
+    "nome": "CABLAGGIO CCTALK MH430 - MH541 DP18 TASTI",
+    "categoria": "CABLAGGI",
+    "prezzo": "5.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV789",
+    "nome": "CALBLAGGIO PULSE PER V7 - DP10",
+    "categoria": "CABLAGGI",
+    "prezzo": "9.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV790",
+    "nome": "CAVO GETTONIERA P.10",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV877",
+    "nome": "Cavo cctalk mh430 - mh528 - DP30",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV881_A",
+    "nome": "CABLAGGIO HOPPER 1 DP30",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV881_B",
+    "nome": "CABLAGGIO HOPPER 2 DP30",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV884",
+    "nome": "CABLAGGIO ALIMENTAZIONE TG02 - MH430",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV952",
+    "nome": "CAB. PROGRAMMAZIONE SCHEDE MH572",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV966",
+    "nome": "Cablaggio programmazione schede led prezzi DP60",
+    "categoria": "CABLAGGI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV967",
+    "nome": "Cavo ponte tra due schede MH576",
+    "categoria": "CABLAGGI",
+    "prezzo": "4.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MCV968",
+    "nome": "Cavo di collegamento tra scheda motori e MH576",
+    "categoria": "CABLAGGI",
+    "prezzo": "4.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB10007",
+    "nome": "Cablaggio motori DP14 lato mobile",
+    "categoria": "CABLAGGI",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB10070",
+    "nome": "Cablaggio motori DP7 lato mobile",
+    "categoria": "CABLAGGI",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0138-01",
+    "nome": "Sonda NG6 3.0MT  NTC da 40 gradi a 110 gradi - EVTPN630F200",
+    "categoria": "ELETTRONICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "26000110.0",
+    "nome": "Elettromagnete 24vdc per DP8",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "8-KIT-BO1",
+    "nome": "Kit barriere ottiche MH627 con filtro luce IR",
+    "categoria": "ELETTRONICA",
+    "prezzo": "84.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ADATT-SD",
+    "nome": "Adattatore micro SD",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ALIM-002",
+    "nome": "ALIMENTATORE SWITCHING 12V 100W DP60-18-16-10-8",
+    "categoria": "ELETTRONICA",
+    "prezzo": "50.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ALIM-003",
+    "nome": "ALIMENTATORE SWITCHING 24V 100W DP60-18-16-10-8",
+    "categoria": "ELETTRONICA",
+    "prezzo": "50.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ALIM-012",
+    "nome": "Alimentatore NDR-240-24 AC/DC 240w 24v",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ALIM-014",
+    "nome": "ALIM. 24V 150W NUOVI ALIMENTATORI DP40/60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "BATT-12V-1",
+    "nome": "Batteria al Pb 12V 1.3A",
+    "categoria": "ELETTRONICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "BUZ07-CL",
+    "nome": "SIRENA PER DISTRIBUTORE CABLATA",
+    "categoria": "ELETTRONICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "CR-002",
+    "nome": "LETTORE DI ETA' AGE300 (VOLPI)",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-KIT-100",
+    "nome": "Kit per sostituzione da RaspBerry a Scheda PC",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-KIT-FC-R",
+    "nome": "KIT MICROSWITCH FINE CORSA GHIGLIOTTINA PER DD60 TOUCH",
+    "categoria": "ELETTRONICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-PS100",
+    "nome": "Costa sensibile PS100-610-2S",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DIS-LCD-16X2-2-CPL",
+    "nome": "DISPLAY DP4 16X2 COMPLETO DI SCHEDA INTERFACCIA",
+    "categoria": "ELETTRONICA",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DIS-LCD-240X128-V",
+    "nome": "DISPLAY GRAFICO 240x128 DP7 PAYTEC",
+    "categoria": "ELETTRONICA",
+    "prezzo": "95.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP10-KIT-01",
+    "nome": "KIT ILLUMINAZIONE PRODOTTI DP10",
+    "categoria": "ELETTRONICA",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP10-KIT-03",
+    "nome": "ELETTROMAGNETE ASS. CHIUSURA SPORTELLO RIT. PRODOTTI DP14-10-7-8new",
+    "categoria": "ELETTRONICA",
+    "prezzo": "47.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP10-KIT-04",
+    "nome": "DISPLAY ALFANUMERICO 20x2 CABLATO DP14-10",
+    "categoria": "ELETTRONICA",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-03",
+    "nome": "DISPLAY GRAFICO 240x128 DP60-18-16-8 MICROHARD",
+    "categoria": "ELETTRONICA",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-04-U",
+    "nome": "SCHEDA TASTIERA MH465 DP16- RIGENERATO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "185.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-05-U",
+    "nome": "SCHEDA TASTIERA MH466 DP16- RIGENERATO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "175.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-01",
+    "nome": "KIT ILLUMINAZIONE PRODOTTI DP18 - modello nuovo",
+    "categoria": "ELETTRONICA",
+    "prezzo": "50.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-04",
+    "nome": "KIT MOTORE ASSEMBLATO PER BLOCCO SPORTELLO RITIRO PRODOTTI",
+    "categoria": "ELETTRONICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-06",
+    "nome": "Kit illuminazione plexiglass frontale DP18",
+    "categoria": "ELETTRONICA",
+    "prezzo": "43.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP24-KIT-01-R",
+    "nome": "KIT LED TETTOIA MH4-MH6 RICAMBIO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-KIT-04",
+    "nome": "KIT LED TASTIERA PER DP30 E DP40",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-KIT-FC-R",
+    "nome": "KIT MICROSWITCH FINE CORSA GHIGLIOTTINA PER DP40 E DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-ATT",
+    "nome": "KIT MOTORE GHIGLIOTTINA DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "85.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-10",
+    "nome": "KIT TILT PER DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-15",
+    "nome": "Led porta DP60 - un pezzo - STECCA BIANCA",
+    "categoria": "ELETTRONICA",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP8-KIT-01-U",
+    "nome": "SCHEDA TASTIERA MH471 DP8- RIGENERATO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "225.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DRV-10-SPIN",
+    "nome": "SCHEDA DRIVER 10 MOTORI DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "95.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DS60-KIT-04-R",
+    "nome": "SCHEDA MH566 AGGIUNTIVA COMUNICAZIONE CCTALK PER TABACCHI +10 SELEZIONI",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "FR-EC156",
+    "nome": "Motoventilatore per aspirazione gruppo condersatore 24W 1300RPM cavo 1mt",
+    "categoria": "ELETTRONICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP-KIT-PC",
+    "nome": "Kit PC pre-assemblato e programmato per DD60 TOUCH FARMACIA",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GETT-RR-C2X1",
+    "nome": "Rendiresto SUZOHAPP",
+    "categoria": "ELETTRONICA",
+    "prezzo": "530.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "HUB-001",
+    "nome": "HUB USB 4 PORTE",
+    "categoria": "ELETTRONICA",
+    "prezzo": "21.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "INT-16",
+    "nome": "Interruttore Tamper DP24",
+    "categoria": "ELETTRONICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "INT-17",
+    "nome": "INTERRUTTORE TAMPER",
+    "categoria": "ELETTRONICA",
+    "prezzo": "3.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "INT-24",
+    "nome": "Microinterruttore AM51613C53N - FINE CORSA GHIGLIOTTINA DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "KIT-RGB-PORTA",
+    "nome": "LED MULTI COLOR PER DP40",
+    "categoria": "ELETTRONICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "KIT-RGB-RITP",
+    "nome": "LED MULTICOLOR PER RITIRO PRODOTTO DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MD-MH626-A-CT2-Y-A1",
+    "nome": "Trascinatore DD6",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-12004000000",
+    "nome": "TAMPER SPORTELLO DP24 INTERRUTTORE A 3 SCATTI",
+    "categoria": "ELETTRONICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH430",
+    "nome": "SCHEDA CPU DP16-8",
+    "categoria": "ELETTRONICA",
+    "prezzo": "130.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH430-P",
+    "nome": "SCHEDA CPU DP60-18",
+    "categoria": "ELETTRONICA",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH432",
+    "nome": "MODEM GPRS DP16-8",
+    "categoria": "ELETTRONICA",
+    "prezzo": "55.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH434-8-U",
+    "nome": "SCHEDA I/O DP8- RIGENERATO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "98.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH434-U",
+    "nome": "SCHEDA I/O DP16- RIGENERATO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "120.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH442",
+    "nome": "LED RGB DP16-8",
+    "categoria": "ELETTRONICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH486",
+    "nome": "PAYPOINT/DP40 - SCHEDA TASTO SINGOLO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "7.5",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH487",
+    "nome": "SCHEDA I/O PAYPOINT",
+    "categoria": "ELETTRONICA",
+    "prezzo": "160.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH499",
+    "nome": "Scheda per Programmatore ICP",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH505",
+    "nome": "INTERFACCIA RASPBERRY MH430",
+    "categoria": "ELETTRONICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH521",
+    "nome": "SCHEDA I/O MOBILE DP60-18",
+    "categoria": "ELETTRONICA",
+    "prezzo": "80.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH522",
+    "nome": "SCHEDA I/O SPORTELLO DP60-18",
+    "categoria": "ELETTRONICA",
+    "prezzo": "95.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH524",
+    "nome": "TASTIERA DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "65.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH527",
+    "nome": "SCHEDA POWER DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH529",
+    "nome": "SCHEDA MOTORE GHIGLIOTTINA DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH532",
+    "nome": "SCHEDA CPU DP4",
+    "categoria": "ELETTRONICA",
+    "prezzo": "110.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH534",
+    "nome": "SCHEDA TASTIERA A 2 PULSANTI DP18",
+    "categoria": "ELETTRONICA",
+    "prezzo": "40.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH535",
+    "nome": "DIPLAY PREZZO DP18",
+    "categoria": "ELETTRONICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH537",
+    "nome": "SCHEDA INTERFACCIA MH537",
+    "categoria": "ELETTRONICA",
+    "prezzo": "8.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH541",
+    "nome": "ESPANSIONE MULTI CCTALK DP18-10",
+    "categoria": "ELETTRONICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH543",
+    "nome": "SCHEDA CPU DP10",
+    "categoria": "ELETTRONICA",
+    "prezzo": "140.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH551",
+    "nome": "TASTIERA MASTER DP10 3 PULSANTI (A)",
+    "categoria": "ELETTRONICA",
+    "prezzo": "65.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH552",
+    "nome": "TASTIERA SLAVE DP10 3 PULSANTI (B)",
+    "categoria": "ELETTRONICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH553",
+    "nome": "TASTIERA SLAVE DP10 2 PULSANTI (C)",
+    "categoria": "ELETTRONICA",
+    "prezzo": "20.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH555",
+    "nome": "Scheda ghigliottina CAN",
+    "categoria": "ELETTRONICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH565",
+    "nome": "SCHEDA DRIVER PER DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "70.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH572",
+    "nome": "SCHEDA PREZZI DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "48.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH576",
+    "nome": "SCHEDA PREZZI DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH585",
+    "nome": "SCHEDA I/O PER DP8 NEW",
+    "categoria": "ELETTRONICA",
+    "prezzo": "110.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH591",
+    "nome": "Scheda tastiera con LED illuminazione DP8 new",
+    "categoria": "ELETTRONICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH599",
+    "nome": "Scheda Driver 10 spintori - New",
+    "categoria": "ELETTRONICA",
+    "prezzo": "105.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH615",
+    "nome": "SCHEDA PREZZI DP40",
+    "categoria": "ELETTRONICA",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH625",
+    "nome": "Nuovo DDx Touch - POWER",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH628",
+    "nome": "SCHEDA POWER E SENSORE GAS DDX E DD60TOUCH",
+    "categoria": "ELETTRONICA",
+    "prezzo": "120.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH629",
+    "nome": "SCHEDA POWER FRIGO E ELETTRONICA PER ALIM. NUOVI 60TOUCH - DP40 - DP24",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH634",
+    "nome": "Scheda controller motori (Paratia-Cassetto) DDX",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH637",
+    "nome": "scheda ALIMENTAZIONE porta + LED RGB - DDX",
+    "categoria": "ELETTRONICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH639",
+    "nome": "Scheda led prezzi per MH4/DP24",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH640",
+    "nome": "Scheda CAN-Product Door per DP60Touch",
+    "categoria": "ELETTRONICA",
+    "prezzo": "70.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH684",
+    "nome": "SCHEDA CPU DD6 NO BATT. VERSIONE VECCHIA",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH685",
+    "nome": "SCHEDA CPU DD6 NEW",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MON-001",
+    "nome": "MONITOR PER TOUCH A LIBRO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "380.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MON-011",
+    "nome": "MONITOR CON TOUCH 15.6 KF",
+    "categoria": "ELETTRONICA",
+    "prezzo": "1200.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MON-011-E",
+    "nome": "MONITOR CON TOUCH 15.6\" KF NUOVO 2024",
+    "categoria": "ELETTRONICA",
+    "prezzo": "1200.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MON-011-W",
+    "nome": "MONITOR CON TOUCH 15.6\" WTD",
+    "categoria": "ELETTRONICA",
+    "prezzo": "1200.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MON-012",
+    "nome": "YIIAMA MONITOR TOUCH DP18 PRIMA SERIE",
+    "categoria": "ELETTRONICA",
+    "prezzo": "650.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MTR-02",
+    "nome": "MOTORE SPORTELLO RITIRO PRODOTTO DP60-18-16-8",
+    "categoria": "ELETTRONICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MTR-07",
+    "nome": "Motore SPORTELLO RITIRO PRODOTTO DP60-18-16-8 12Volt non assemblato",
+    "categoria": "ELETTRONICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MTR-08",
+    "nome": "Motore 24VDC per vasca rotativa",
+    "categoria": "ELETTRONICA",
+    "prezzo": "50.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "NX16R/RCN-CO10",
+    "nome": "Barriera ottica nx16srxcn-c010 destra",
+    "categoria": "ELETTRONICA",
+    "prezzo": "55.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "NX16S/X00-CO",
+    "nome": "Barriera ottica nx16srxcn-c010 sinistra",
+    "categoria": "ELETTRONICA",
+    "prezzo": "55.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "NX16SR/RCN-C1020",
+    "nome": "Kit barriera Ottica DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "225.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "NX16SR/XCN-C010",
+    "nome": "Kit barriera Ottica DP60/40",
+    "categoria": "ELETTRONICA",
+    "prezzo": "225.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "PRESA-POLYSNAP-1",
+    "nome": "Presa Polysnap con interruttore ON/OFF Nero",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RASPBERRY-PI2",
+    "nome": "RASPBERRY MOD. P2",
+    "categoria": "ELETTRONICA",
+    "prezzo": "90.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RASPBERRY-PI3",
+    "nome": "RASPBERRY PI3 60 TOUCH",
+    "categoria": "ELETTRONICA",
+    "prezzo": "140.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB70120",
+    "nome": "Ventola 80*80 24Vdc per DP14-7 (coppia)",
+    "categoria": "ELETTRONICA",
+    "prezzo": "36.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB7U101",
+    "nome": "BOX ALIMENTAZIONE DP14-7 PAYTEC",
+    "categoria": "ELETTRONICA",
+    "prezzo": "115.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB7U127",
+    "nome": "SCHEDA CPU DP14-7-4 PAYTEC RIGENERATA",
+    "categoria": "ELETTRONICA",
+    "prezzo": "135.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB7U128",
+    "nome": "SCHEDA TASTIERA DP14-7 PAYTEC RIGENERATA",
+    "categoria": "ELETTRONICA",
+    "prezzo": "105.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RE-T9AP5D52-12",
+    "nome": "Relay per ventola tangenziale DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SCH-007",
+    "nome": "SCHEDA DRIVER 6 MOTORI DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "85.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SCH-USD-16GB",
+    "nome": "MICRO SD CLASSE 10 16GB",
+    "categoria": "ELETTRONICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SCH-USD-8GB",
+    "nome": "Scheda micro SD da 8GB per MH430",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STR-LED-02",
+    "nome": "Strip Led bianco cella DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "22.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STR-LED-07",
+    "nome": "Led illuminazione cella DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "22.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STR-LED-10",
+    "nome": "Strip led 80cm per illuminazione plexiglass DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "48.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STR-LED-12",
+    "nome": "LED BIANCHI (RIMORINI) LUNGHI 87.5CM PER PLEXIGLASS DP18",
+    "categoria": "ELETTRONICA",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STR-LED-CTRL",
+    "nome": "CONTROLLER LED MULTI",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STR-LED-LENS-4511",
+    "nome": "Led Lens Module 2835 160° 12v ip65 6500k OPT4511",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "TAST-AV-001",
+    "nome": "TASTIERA ANTIVANDALO DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "65.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "TOUCH-03",
+    "nome": "Touch-03 zcc-336 21.5p CAP single 1.000 cover lens + CTRL mod .zcc-3356",
+    "categoria": "ELETTRONICA",
+    "prezzo": "336.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VENT-01",
+    "nome": "Ventola 12V 4.1W DP18-16-10-8-60 (Alta velocità)",
+    "categoria": "ELETTRONICA",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VENT-8X8-12.1",
+    "nome": "Ventola 12V 1.8W DP18-16-10-8-60 (Bassa velocità)",
+    "categoria": "ELETTRONICA",
+    "prezzo": "13.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VENT-TG-117215",
+    "nome": "VENTOLA AGGIUNTIVA PER DP60",
+    "categoria": "ELETTRONICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VENT-TG-TAS18B",
+    "nome": "Ventola tangenziale per DP30",
+    "categoria": "ELETTRONICA",
+    "prezzo": "40.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "ZCC-001",
+    "nome": "Controller ZCC-3356 per il touch ZCC-336221506",
+    "categoria": "ELETTRONICA",
+    "prezzo": "120.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "001-001190",
+    "nome": "GUARNIZIONE ARMATA PER IL SUPPORTO VETRO DP60 E DP40",
+    "categoria": "GUARNIZIONI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "003-000163",
+    "nome": "GUARNIZIONE A PALLONCINO ADESIVA PER DP60 E DP18 TOUCH",
+    "categoria": "GUARNIZIONI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GUARN-001",
+    "nome": "Guarnizione armata 001.001999 guarn-0001 PER DP18 E DP10 (si mette sulla Z del mobile)",
+    "categoria": "GUARNIZIONI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MOUSSE-10X3",
+    "nome": "Guarnizione mousse adesiva 10x3 mt 10 a rotolo",
+    "categoria": "GUARNIZIONI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "(501-11-11-23-00 +  056-18-02)",
+    "nome": "MANIGLIA E SERRATURA DP16-18-60 (501-11-11-23-00 +  056-18-02)",
+    "categoria": "MECCANICA",
+    "prezzo": "100.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0009-00",
+    "nome": "Molla per pulsante antivandalo anodizzato",
+    "categoria": "MECCANICA",
+    "prezzo": "1.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0020-01",
+    "nome": "AK9 - Pulsante anodizzato KIT TASTO DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0061-01",
+    "nome": "SPORTELLO RITIRO PRODOTTO DP10 - VERNICIATO",
+    "categoria": "MECCANICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0075-PL",
+    "nome": "Paratia larga sx per silos alto prod. stand in plastica SILOS-PL-007-SX2",
+    "categoria": "MECCANICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0076-PL",
+    "nome": "Paratia larga dx per silos alto prod.std. in plastica SILOS-PL-007-DX",
+    "categoria": "MECCANICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0078-PL",
+    "nome": "Paratia sx silos corto prod. std. in plastica SILOS-PL-070-SX",
+    "categoria": "MECCANICA",
+    "prezzo": "7.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0079-PL",
+    "nome": "Paratia dx silos corto prod. std in plastica SILOS-PL-070-DX",
+    "categoria": "MECCANICA",
+    "prezzo": "7.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0080-PL",
+    "nome": "Paratia dx silos corto prod.piccoli plastica SILOS-PL-036-DX (3pz)",
+    "categoria": "MECCANICA",
+    "prezzo": "7.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0081-PL",
+    "nome": "Paratia sx silos corto prod.piccoli plastica SILOS-PL-036-SX (3pZ)",
+    "categoria": "MECCANICA",
+    "prezzo": "7.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0082-PL",
+    "nome": "Silos corto in plastica SILOS-PL-010 (POSTERIORE CANALINA)",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "0-34-0083-PL",
+    "nome": "Silos lungo in plastica \"SILOS-PL-001\" (POSTERIORE CANALINA)",
+    "categoria": "MECCANICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "001-001201",
+    "nome": "GUARNIZIONE ARMATA PER VETROCAMERA DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "5.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0044-00",
+    "nome": "Serratura 4 mandate CISA 57226 60 - DP14 E DP7 PAYTEC",
+    "categoria": "MECCANICA",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-141-00",
+    "nome": "SERRATURA TUBOLARE A 2 USCITE - DP10-14-7-4",
+    "categoria": "MECCANICA",
+    "prezzo": "21.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-143-11",
+    "nome": "MANIGLIA DP8 NEW",
+    "categoria": "MECCANICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3005117",
+    "nome": "SCHIENA PER DP18 FINITA",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-025",
+    "nome": "Dp10 Asta serratura zincata",
+    "categoria": "MECCANICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-037",
+    "nome": "Staffa lucchetto",
+    "categoria": "MECCANICA",
+    "prezzo": "20.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-060",
+    "nome": "Dp10 cassetta monete zincata",
+    "categoria": "MECCANICA",
+    "prezzo": "40.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-135A",
+    "nome": "MODIFICA SCIVOLO RENDI RESTO DP10",
+    "categoria": "MECCANICA",
+    "prezzo": "5.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-139",
+    "nome": "Staffa protezione lettore banconote",
+    "categoria": "MECCANICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-006-1",
+    "nome": "Protezione porta dp18 zincante +  vernice",
+    "categoria": "MECCANICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-006-INOX-1",
+    "nome": "Protezione porta dp18 INOX +  vernice",
+    "categoria": "MECCANICA",
+    "prezzo": "70.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-011-1",
+    "nome": "Protezione inferiore dp18 ZINCANTE +  vernice",
+    "categoria": "MECCANICA",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-011-INOX-1",
+    "nome": "Protezione inferiore dp18 INOX +  vernice",
+    "categoria": "MECCANICA",
+    "prezzo": "22.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-032",
+    "nome": "CANALE USCITA ARIA VENTOLA DP18",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-033",
+    "nome": "SUPPORTO HOPPER DP18 NEW PER NUOVO SCIVOLO Scivolo new",
+    "categoria": "MECCANICA",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-058-1",
+    "nome": "PIASTRA SUPP. LETTORE BANCONOTE PER DP18/10",
+    "categoria": "MECCANICA",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-098",
+    "nome": "Cassetta monete zincata dd16-18",
+    "categoria": "MECCANICA",
+    "prezzo": "50.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-1000-1",
+    "nome": "Mobile DP18 + supporto silos",
+    "categoria": "MECCANICA",
+    "prezzo": "800.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-1100-1",
+    "nome": "Sportello verniciato DP18",
+    "categoria": "MECCANICA",
+    "prezzo": "430.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-112-316",
+    "nome": "SPORTELLO RITIRO RESTO VERNICIATO",
+    "categoria": "MECCANICA",
+    "prezzo": "20.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-1120",
+    "nome": "Cerniera porta DP18",
+    "categoria": "MECCANICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-114-1",
+    "nome": "Cornice bassa DP18 - Fondo zinc.+ Vernic. RAL9007",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-114-INOX-1",
+    "nome": "CORNICI INFERIORE  DP18 SPORTELLO VERNICIATO",
+    "categoria": "MECCANICA",
+    "prezzo": "95.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-1140-1",
+    "nome": "Cornice superiore per sportello DP18 zincante + vernice",
+    "categoria": "MECCANICA",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-1140-INOX-1",
+    "nome": "CORNICI SUPERIORE DP18 SPORTELLO VERNICIATO",
+    "categoria": "MECCANICA",
+    "prezzo": "90.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-1142-1",
+    "nome": "Cornice verticale dx e sx per sportello DP18 zincante + vernice",
+    "categoria": "MECCANICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-1142-INOX-1",
+    "nome": "CORNICI LATERALI DP18 SPORTELLO VERNICIATO",
+    "categoria": "MECCANICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD18-037",
+    "nome": "STAFFA LUCCHETTO DP18",
+    "categoria": "MECCANICA",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD18-137",
+    "nome": "SCIVOLO RESTO NEW A FORMA DI OVAIA Scivolo new",
+    "categoria": "MECCANICA",
+    "prezzo": "11.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD18-253A",
+    "nome": "MODIFICA SCIVOLO RENDI RESTO DP18",
+    "categoria": "MECCANICA",
+    "prezzo": "5.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD18_163A",
+    "nome": "placca montaggio maniglia DP60-40-18",
+    "categoria": "MECCANICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-293",
+    "nome": "Lamiera supporto elettroserratura DP40 e DD60",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD8-1000-1",
+    "nome": "MOBILE DP8 NEW",
+    "categoria": "MECCANICA",
+    "prezzo": "600.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD8-1093 + ADES-75",
+    "nome": "Sport. Ritiro prodotto DD8 + ADES-75 Adesivo Sport. Ritiro prodotto DD8",
+    "categoria": "MECCANICA",
+    "prezzo": "40.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD8-KIT-01",
+    "nome": "CORNICE FISSAGGIO A MURO DP8 NEW 2018",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP10-KIT-05",
+    "nome": "Sportello DP10 completo senza elettronica",
+    "categoria": "MECCANICA",
+    "prezzo": "950.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-013",
+    "nome": "Blocchetto cerniera regolazione zinc. b REV.A (1pz ogni macchina)",
+    "categoria": "MECCANICA",
+    "prezzo": "22.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-014",
+    "nome": "Blocchetto cerniera zinc.b (3pz ogni macchina)",
+    "categoria": "MECCANICA",
+    "prezzo": "17.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-015",
+    "nome": "DP16 Cerniera zincata bianca  (2pz ogni macchina)",
+    "categoria": "MECCANICA",
+    "prezzo": "18.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-050",
+    "nome": "PESO PICCOLO - DP16-8-18-10",
+    "categoria": "MECCANICA",
+    "prezzo": "5.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-053",
+    "nome": "PESO STANDARD - DP16-8-18-10",
+    "categoria": "MECCANICA",
+    "prezzo": "5.0",
+    "link_img": "5",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-086-1",
+    "nome": "SPORTELLO RECUPERO PRODOTTO DP16-8",
+    "categoria": "MECCANICA",
+    "prezzo": "55.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-111",
+    "nome": "dp16 Vaschetta raccolta monete di scarto acciao inox",
+    "categoria": "MECCANICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-112",
+    "nome": "DP16 Portellino vasch. rec. monete di scarto acc.inox",
+    "categoria": "MECCANICA",
+    "prezzo": "7.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-201-1",
+    "nome": "SUPPORTO ACCETTATORE BANCONOTE VERNICIATO DP16-8",
+    "categoria": "MECCANICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-400",
+    "nome": "CORNICE FISSAGGIO A MURO DP16-18",
+    "categoria": "MECCANICA",
+    "prezzo": "120.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-01",
+    "nome": "VASCA RITIRO PRODOTTO COMPLETA DP16/18",
+    "categoria": "MECCANICA",
+    "prezzo": "215.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-010",
+    "nome": "SPORTELLO ASSEMBLATO SENZA ELETTRONICA",
+    "categoria": "MECCANICA",
+    "prezzo": "1200.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-011",
+    "nome": "SPORTELLO DP16 COMPLETO DI ELETTRONICA",
+    "categoria": "MECCANICA",
+    "prezzo": "2750.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-015",
+    "nome": "KIT INSERITORE MONETE DP18-16-8",
+    "categoria": "MECCANICA",
+    "prezzo": "90.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-019",
+    "nome": "KIT PLAY DELIGHT DP18-16-10-8",
+    "categoria": "MECCANICA",
+    "prezzo": "22.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-020",
+    "nome": "Pannelo frontale tastire DP16 completo - senza elettronica",
+    "categoria": "MECCANICA",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-KIT-021",
+    "nome": "MOBILE DP16 COMPLETO DI SUPPORTI SILOS",
+    "categoria": "MECCANICA",
+    "prezzo": "700.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-014",
+    "nome": "SPORTELLO ASS. SENZA ELETTRONICA",
+    "categoria": "MECCANICA",
+    "prezzo": "1350.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-015",
+    "nome": "MOBILE ASS. CON SUPP. SILOS - GUARNIZIONE - STAFFA LUCCHETTO E LUCCHETTO",
+    "categoria": "MECCANICA",
+    "prezzo": "720.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-07",
+    "nome": "SPORTELLO ASSEMBLATO SENZA ELETTRONICA DP18 TOUCH",
+    "categoria": "MECCANICA",
+    "prezzo": "1200.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-09",
+    "nome": "SPORTELLO ASSEMBLATO SENZA ELETTRONICA DP18 PLEXI",
+    "categoria": "MECCANICA",
+    "prezzo": "1500.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-008-1",
+    "nome": "TETTO DP30 VERNICIATO",
+    "categoria": "MECCANICA",
+    "prezzo": "80.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-020",
+    "nome": "SUPPORTO HOPPER NEW PER NUOVO SCIVOLO Scivolo new",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-021-1",
+    "nome": "Chiusura inferiore posteriore DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-066",
+    "nome": "Staffa antiribalta DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "12.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-1050-1",
+    "nome": "PORTA DP30 VERNICIATA",
+    "categoria": "MECCANICA",
+    "prezzo": "650.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-1090",
+    "nome": "SPORT. RIT. PRODOTTI DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "72.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-1095",
+    "nome": "ROSTRI SPORT. RIT. PRODOTTI DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "22.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-180A-1",
+    "nome": "CORNICE SUPERIORE DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-181A-1",
+    "nome": "CORNICE LATERALE DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-182-1",
+    "nome": "Cornice inferiore DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-182A-1",
+    "nome": "Cornice inferiore DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-186-1",
+    "nome": "pettine per cassetto DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-296",
+    "nome": "LISTELLO CORTO PLEXIGLASS NEW DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "22.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-297",
+    "nome": "LISTELLO LUNGO PLEXIGLASS NEW DP30",
+    "categoria": "MECCANICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-004-1",
+    "nome": "CORNICE MOBILE DP40",
+    "categoria": "MECCANICA",
+    "prezzo": "350.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-015-1",
+    "nome": "Griglia canale aria gruppo frigo DP40 e DD60TOUCH - F.do zinc+Ral 9003",
+    "categoria": "MECCANICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-079",
+    "nome": "Asta lucchetto DP40 - Inox",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-098",
+    "nome": "Cassetta raccolta moneta DP40 - PRZ + Vern 9016",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-100-1",
+    "nome": "PORTA DP40",
+    "categoria": "MECCANICA",
+    "prezzo": "1400.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-1080",
+    "nome": "Portello ritiro prodotti DP40 - Inox",
+    "categoria": "MECCANICA",
+    "prezzo": "80.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-1091",
+    "nome": "Blocco portello ritiro prodotti DP40 - Inox",
+    "categoria": "MECCANICA",
+    "prezzo": "40.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-125-1",
+    "nome": "TOPPA SUPPORTO TASTIERA DP40 + VERN.9003",
+    "categoria": "MECCANICA",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-137",
+    "nome": "LAMIERA PROTEZIONE TASTIERA DP40",
+    "categoria": "MECCANICA",
+    "prezzo": "8.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-172-1",
+    "nome": "PALO DI FISSAGGIO CON TAGLIO IN CORRISPONDENZA DELLA GRIGLIA",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-810-1",
+    "nome": "Cornice lat. SX e DX in alluminio per porta DP40",
+    "categoria": "MECCANICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-812-1",
+    "nome": "Cornice sup. e inf. in alluminio per porta DP40",
+    "categoria": "MECCANICA",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-058-1",
+    "nome": "SUPPORTO LETT. BANCONOTE DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-067",
+    "nome": "ROSTRO DP60 SUPERIORE",
+    "categoria": "MECCANICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-068",
+    "nome": "ROSTRO DP60 INFERIORE",
+    "categoria": "MECCANICA",
+    "prezzo": "27.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-079-1",
+    "nome": "Cornice inferiore porta DP60 - verniciato",
+    "categoria": "MECCANICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-1001",
+    "nome": "Supporto binario cella frigo inox",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-110",
+    "nome": "Vasca ritiro monete dp60 inox",
+    "categoria": "MECCANICA",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-112",
+    "nome": "Portellino vaschetta rit. mon. dp60 inox",
+    "categoria": "MECCANICA",
+    "prezzo": "7.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-134",
+    "nome": "Staffa Lucchetto DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "35.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-169",
+    "nome": "Lamiera supporto elettromagnete DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-175",
+    "nome": "PIEDE ANTIRIBALTAMENTO PER FISSAGGIO POSTERIORE (VETRINA)",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-185-A",
+    "nome": "pettine per cassetto DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "7.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-253-1",
+    "nome": "Cornice porta laterale SX - DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-254-1",
+    "nome": "Cornice porta laterale DX - DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-294-1",
+    "nome": "Chiusura laterale base primer+vernice",
+    "categoria": "MECCANICA",
+    "prezzo": "12.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-296",
+    "nome": "LISTELLO ZONA DISPLAY",
+    "categoria": "MECCANICA",
+    "prezzo": "13.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-320-1",
+    "nome": "RINFORZO LATERALE PORTA VERNICIATO DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-323-1",
+    "nome": "CHIUSURA POSTERIORE MOBILE GRIGLIATO PER INST. A MURO",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-368",
+    "nome": "Copertura barra led frontale inferiore inox",
+    "categoria": "MECCANICA",
+    "prezzo": "21.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-ASTA -BLOC-PORTELLO",
+    "nome": "Asta blocco portello ritiro prodotto dp60",
+    "categoria": "MECCANICA",
+    "prezzo": "45.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-CORNICE-INFERIORE-1",
+    "nome": "Cornice inferiore DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "115.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-CORNICE-SUPERIORE-1",
+    "nome": "Cornice superiore porta DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "110.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-03",
+    "nome": "TETTOIA DP60 COMPLETA",
+    "categoria": "MECCANICA",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-06",
+    "nome": "Sport. Posteriore DP60 con serratura assemblato",
+    "categoria": "MECCANICA",
+    "prezzo": "350.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-08",
+    "nome": "KIT INTRODUZIONE MOENTA DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "105.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-12",
+    "nome": "Kit ventola tangenziale",
+    "categoria": "MECCANICA",
+    "prezzo": "110.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-PORTA-1",
+    "nome": "Porta DP60 Verniciata",
+    "categoria": "MECCANICA",
+    "prezzo": "750.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-PORTELLO-RIT-PROD",
+    "nome": "Sport. Rit prodotto Dp60",
+    "categoria": "MECCANICA",
+    "prezzo": "90.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP8-001-01",
+    "nome": "MOBILE DP8 COMPLETO DI SUPPORTI SILOS",
+    "categoria": "MECCANICA",
+    "prezzo": "650.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP8-KIT-06",
+    "nome": "SPORTELLO ASSEMBLATO SENZA ELETTRONICA DP8",
+    "categoria": "MECCANICA",
+    "prezzo": "1100.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DS20-171",
+    "nome": "Copertura lettore di Età e Sanei",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DT50-076",
+    "nome": "STAFFA LUCCHETTO DT 50",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "FI-MH627R",
+    "nome": "Filtro Luce IR per barriera ottica MH627R - plastica",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP24-PARATIE-LAT",
+    "nome": "Kit paratie laterali per MH4 e MH6",
+    "categoria": "MECCANICA",
+    "prezzo": "190.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP40-SERR-PORTA",
+    "nome": "Kit elettroserratura per DP40 e DD60 Touch",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP60-SERR-PORTA",
+    "nome": "Kit elettroserratura per DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP8-PORTA-R",
+    "nome": "SPORTELLO DP8 NEW COMPLETO DI ELETTRONICA",
+    "categoria": "MECCANICA",
+    "prezzo": "1800.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "INSMON002-316",
+    "nome": "Slitta monete ins. monete INOX 316",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "INSMON003-316",
+    "nome": "Leva reject INOX 316",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "LBGA-001",
+    "nome": "Lamiera blocco gettoniera DP10",
+    "categoria": "MECCANICA",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-70.1230.00.056",
+    "nome": "STAFFA FERMA VETRO LATERALE DP24 (CADAUNA)",
+    "categoria": "MECCANICA",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-70.1240.00.001",
+    "nome": "Vetrocamera DP24",
+    "categoria": "MECCANICA",
+    "prezzo": "350.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-70.1240.90.007",
+    "nome": "ADESIVO ANTIBLOCCAGGIO PRODOTTI (DA USARE SEMPRE CON VETROCAMERA DP24)",
+    "categoria": "MECCANICA",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-70.1270.01.181-1",
+    "nome": "Frontale comando periferiche MH4/MH6 - Inox 430+Vern. RAL 9003 Liscio",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-80.1245.00.002",
+    "nome": "Gruppo porta lato cella completo per DP24",
+    "categoria": "MECCANICA",
+    "prezzo": "2500.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MPOINT097",
+    "nome": "TOPPA CHIUSURA FORO INSERIMENTO MONETE - INOX",
+    "categoria": "MECCANICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "PAYP_270A",
+    "nome": "TOPPA CHIUSURA FORO BANCONOTE - VERNICIATO BIANCO",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB90130",
+    "nome": "PANNELLO ISTRUZIONE E STAMPANTE DP14",
+    "categoria": "MECCANICA",
+    "prezzo": "260.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB90131",
+    "nome": "SPORTELLO ASSEMBLATO SENZA ELETTRONICA DP14",
+    "categoria": "MECCANICA",
+    "prezzo": "780.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB90132",
+    "nome": "PANNELLO DI PAGAMENTO S. ELETTRONICA DP14",
+    "categoria": "MECCANICA",
+    "prezzo": "140.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB90206",
+    "nome": "PANNELLO PULSANTIERA ASS. SENZA ELETTRONICA DP14",
+    "categoria": "MECCANICA",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SEIGER TASTO DP60",
+    "nome": "KIT TASTO DP60",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SERR-EL-3",
+    "nome": "SERRATURA ELETTRONICA STC PER DS20",
+    "categoria": "MECCANICA",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SILOS-METAL-061",
+    "nome": "Prolunga appoggio silos in plastica",
+    "categoria": "MECCANICA",
+    "prezzo": "6.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SPORTELLO DP10",
+    "nome": "Sportello DP10 completo senza elettronica",
+    "categoria": "MECCANICA",
+    "prezzo": "950.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SUPP-GETT-S10",
+    "nome": "supporto plastico gettoniera P.10",
+    "categoria": "MECCANICA",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "TST-15-1",
+    "nome": "Parte fissa pulsante antivandalo anodizzato",
+    "categoria": "MECCANICA",
+    "prezzo": "2.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "TST-16-1",
+    "nome": "Parte mobile pulsante antivandalo anodizzata",
+    "categoria": "MECCANICA",
+    "prezzo": "1.0",
+    "link_img": "8",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0051-00",
+    "nome": "LETTORE BANCONOTE V7 NUOVO",
+    "categoria": "PERIFERICHE",
+    "prezzo": "390.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0051-04",
+    "nome": "Stacker per lettore V7 ICT da 200 banconote",
+    "categoria": "PERIFERICHE",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0053-00",
+    "nome": "GETT. EMP890 WH DP14-7-4 PAYTEC",
+    "categoria": "PERIFERICHE",
+    "prezzo": "185.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0114-00",
+    "nome": "GETT. P10 EVO PARALLELA PER DP16",
+    "categoria": "PERIFERICHE",
+    "prezzo": "127.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0115-00-CCTALK",
+    "nome": "HOPPER RENDI RESTO MKII CCTALK",
+    "categoria": "PERIFERICHE",
+    "prezzo": "127.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0117-00",
+    "nome": "MOTOR DISPENSER MD1112 CCTALK DP14-7-4 PAYTEC",
+    "categoria": "PERIFERICHE",
+    "prezzo": "43.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0123-00 (NON USARE)",
+    "nome": "RENDI RESTO MEI 5 TUBI CONFIG. DAC 1x2€ 2x1€ 1x0.50€ 1x0.10€",
+    "categoria": "PERIFERICHE",
+    "prezzo": "530.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0123-00-1",
+    "nome": "RENDI RESTO MEI 5 TUBI CONFIG. BC (TABACCHI)",
+    "categoria": "PERIFERICHE",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0123-01",
+    "nome": "RENDI RESTO MEI - 2x2€ 2x1€ 1x0.50€ (X FARMACIA)",
+    "categoria": "PERIFERICHE",
+    "prezzo": "530.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0125-00",
+    "nome": "RENDI RESTO NRI 2x2€ - 2x1€ - 2x0.5€",
+    "categoria": "PERIFERICHE",
+    "prezzo": "450.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0129-09",
+    "nome": "RENDI RESTO COINCO 6 TUBI DP60",
+    "categoria": "PERIFERICHE",
+    "prezzo": "450.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0129-09-U",
+    "nome": "RENDI RESTO COINCO 6 TUBI DP60 - RIGENERATA",
+    "categoria": "PERIFERICHE",
+    "prezzo": "300.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0137-00",
+    "nome": "Termostato LAE",
+    "categoria": "PERIFERICHE",
+    "prezzo": "140.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0137-01",
+    "nome": "TERMOSTATO EMMERSON XR70CX",
+    "categoria": "PERIFERICHE",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-00-0141-00",
+    "nome": "NRI TABACCHI",
+    "categoria": "PERIFERICHE",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-01-0097-04",
+    "nome": "X5 Dynamic PayOut new c/cinghia standard e senza cinch",
+    "categoria": "PERIFERICHE",
+    "prezzo": "190.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-02-0033-00-U",
+    "nome": "STAMPANTE TG02 35MM DP14-7-4 PAYTEC - RIGENERATA",
+    "categoria": "PERIFERICHE",
+    "prezzo": "130.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-02-0037-01",
+    "nome": "Stampante Sanei con taglierina",
+    "categoria": "PERIFERICHE",
+    "prezzo": "220.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-02-0042-00",
+    "nome": "LETTORE BANCONOTE XBA",
+    "categoria": "PERIFERICHE",
+    "prezzo": "550.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-02-0042-02",
+    "nome": "Stacker 200 banconote XBA",
+    "categoria": "PERIFERICHE",
+    "prezzo": "72.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-02-0044-00",
+    "nome": "STAMPANTE TG02-H 58MM DP18-16-10-8-4 MICROHARD",
+    "categoria": "PERIFERICHE",
+    "prezzo": "180.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "2-02-0046-01",
+    "nome": "Stampante BETA2 RS232 PAY-PFI-4052-00 portarot.posteriore",
+    "categoria": "PERIFERICHE",
+    "prezzo": "180.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3025752*",
+    "nome": "KIT RASPBERRY DP8",
+    "categoria": "PERIFERICHE",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3025752.",
+    "nome": "KIT RASPBERRY DP18",
+    "categoria": "PERIFERICHE",
+    "prezzo": "90.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "946BT140300700",
+    "nome": "Pin Pad IUP250",
+    "categoria": "PERIFERICHE",
+    "prezzo": "700.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "946BT140300700-U",
+    "nome": "Pin Pad IUP250",
+    "categoria": "PERIFERICHE",
+    "prezzo": "400.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "946BT150100200",
+    "nome": "Lettore Ibrido IUR250",
+    "categoria": "PERIFERICHE",
+    "prezzo": "400.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "946BT150100200-U",
+    "nome": "Lettore Ibrido IUR250 - RIGENERATO",
+    "categoria": "PERIFERICHE",
+    "prezzo": "240.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "BATT-12V-5A",
+    "nome": "Batteria 12V 5Ah al Pb AGM VRLA Energy Safe C20 per DD60 TOUCH E DD90",
+    "categoria": "PERIFERICHE",
+    "prezzo": "25.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "CASSETTA COINCO",
+    "nome": "Cassetta completa di tubi Coinco",
+    "categoria": "PERIFERICHE",
+    "prezzo": "85.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "CR-003",
+    "nome": "LETTORE ETA' AGE 300 - VOLPI - PER TABACCHI DS50/60",
+    "categoria": "PERIFERICHE",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-SAN",
+    "nome": "Kit per installazione stampante SANEI su DP18 completo di cavi e fissaggi",
+    "categoria": "PERIFERICHE",
+    "prezzo": "300.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-KIT-02",
+    "nome": "GRUPPO FRIGO DP40 CON R134",
+    "categoria": "PERIFERICHE",
+    "prezzo": "750.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-KIT-SAN",
+    "nome": "Kit per installazione stampante SANEI su DP40 completo di cavi e fissaggi",
+    "categoria": "PERIFERICHE",
+    "prezzo": "300.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-EMT6144-01",
+    "nome": "KIT FRIGO DP60 MODELLO MTH",
+    "categoria": "PERIFERICHE",
+    "prezzo": "850.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-EMT6144-02",
+    "nome": "Grupo frigo DP60 R290 cablato con scatola Gewiss e morsetti",
+    "categoria": "PERIFERICHE",
+    "prezzo": "850.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-11-U",
+    "nome": "gruppo frigo completo di termostato - RIGENERATO",
+    "categoria": "PERIFERICHE",
+    "prezzo": "750.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-16",
+    "nome": "KIT VENTOLA FRIGO CONDENSATORE DP60",
+    "categoria": "PERIFERICHE",
+    "prezzo": "85.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-KIT-SAN",
+    "nome": "Kit per installazione stampante SANEI su DP60 (con pos) completo di cavi e fissaggi",
+    "categoria": "PERIFERICHE",
+    "prezzo": "300.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DT50-KIT-01",
+    "nome": "KIT LETTORE DI IMPRONTA SU DS50 E DS60",
+    "categoria": "PERIFERICHE",
+    "prezzo": "240.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "FR-003-R290",
+    "nome": "Gruppo frigo R290 x DP40",
+    "categoria": "PERIFERICHE",
+    "prezzo": "750.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "FR-004-R290",
+    "nome": "Gruppo frigo R290 x DD60TOUCH",
+    "categoria": "PERIFERICHE",
+    "prezzo": "750.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP40-FRIGO-R",
+    "nome": "Gruppo frigo DP40 con R134 completo di termostato MTH",
+    "categoria": "PERIFERICHE",
+    "prezzo": "850.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GDP60-FRIGO-R",
+    "nome": "Gruppo frigo DP60 con R134 completo di termostato MTH",
+    "categoria": "PERIFERICHE",
+    "prezzo": "850.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GETT-P10-CCTALK",
+    "nome": "GETT. P10 CCTALK PER DP18 E PAYPOINT",
+    "categoria": "PERIFERICHE",
+    "prezzo": "127.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GETT-P10-CCTALK-4K",
+    "nome": "GETT. P10 CCTALK PER DP18 E PAYPOINT 4K",
+    "categoria": "PERIFERICHE",
+    "prezzo": "127.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GETT-P10-F",
+    "nome": "GETT. P.10 EVOLUTION DP10 PARALLELA PER DP10",
+    "categoria": "PERIFERICHE",
+    "prezzo": "127.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GETT-RR-GR1",
+    "nome": "GETT. GRYPHON PER TABACC",
+    "categoria": "PERIFERICHE",
+    "prezzo": "530.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "GETT-RR-GR2",
+    "nome": "GETT. GRYPHON PER FARMACIA",
+    "categoria": "PERIFERICHE",
+    "prezzo": "530.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "LB-001",
+    "nome": "Lettore SA7",
+    "categoria": "PERIFERICHE",
+    "prezzo": "400.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MD-MH446-A-SD5",
+    "nome": "MOTOR DISPENSER SD5 PARALLELO (DP16)",
+    "categoria": "PERIFERICHE",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MD-MH538-CCT-A-SD2",
+    "nome": "MOTOR DISPENSER SD5 CCTALK - FACCCHINO DRITTO PER SIGARETTE NORMALI",
+    "categoria": "PERIFERICHE",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MD-MH538-CCT-A-SD5",
+    "nome": "MOTOR DISPENSER SD5 CCTALK (DP18/10)",
+    "categoria": "PERIFERICHE",
+    "prezzo": "43.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH626-CT2-Y",
+    "nome": "MOTOR DISPENSER SD5 CCTALK PER DS20",
+    "categoria": "PERIFERICHE",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "RB6U122",
+    "nome": "RENDI RESTO HOPPER DP14-7-4 PAYTEC - RIGENERATO",
+    "categoria": "PERIFERICHE",
+    "prezzo": "92.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "SCA-EM20-80",
+    "nome": "Lettore barcode",
+    "categoria": "PERIFERICHE",
+    "prezzo": "150.0",
+    "link_img": "https://nlscan.s3.ap-southeast-1.amazonaws.com/Uploads/Temp/image/20210706/60e3c793f2484.png",
+    "modello": ""
+  },
+  {
+    "codice": "TUBO COINCO",
+    "nome": "Tubo di ricambio per rendi resto coinco",
+    "categoria": "PERIFERICHE",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "XS-01-ASS",
+    "nome": "SPINTORE ASSEMBLATO DP60",
+    "categoria": "PERIFERICHE",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "XS-02-ASS",
+    "nome": "SPINTORE ASSEMBLATO DP30",
+    "categoria": "PERIFERICHE",
+    "prezzo": "40.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3258700.",
+    "nome": "TETTOIA PER DD60 TOUCH E DP60 NEW COMPLETA DI ACCESSORI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3260431",
+    "nome": "KIT Tettoia per DP24",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "3261455",
+    "nome": "KIT TETTOIA DP60/DD60 TOUCH + LOCKER COMPLETO DI ACCESSORI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-900",
+    "nome": "Dp10 supporto leggenda e display in plexiglass serigrafato",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "38.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-901",
+    "nome": "Dp10 plexiglass interno etichette",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "60.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD10-915",
+    "nome": "Dp10 Protezione elettronica dd10 in plexiglass",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-901",
+    "nome": "PLEXIGLASS PORTA DP18 TASTI SERIGRAFATO + IMBALLO BLU CON STELLINE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "295.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-901-GR",
+    "nome": "PLEXIGLASS PORTA DP18 TASTI SERIGRAFATO + IMBALLO SENZA NAYAX E SENZA SELF2000",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "295.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-901-GU",
+    "nome": "Plexiglass Pannello frontale DP18 sp.5 mm stampato Gucci SENZA Pos",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "300.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-901-NY",
+    "nome": "PLEXIGLAS DP18 GRIGIO PER NAYAX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-902",
+    "nome": "PLEXIGLASS PORTA DP18 TOUCH SERIGRAFATO",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-903",
+    "nome": "PLEXIGLAS DP18 PER SELF2000 E SANEI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-905",
+    "nome": "PLEXIGLASS INTERNO LEGENDE DP18 TASTI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "43.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD16-915",
+    "nome": "PLEXIGLASS PER PORTA PULSANTI DP18 TASTI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD40-900-1-GUN",
+    "nome": "PLEXI DP40 SENZA LOGO - GUCCI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-900-1-GU",
+    "nome": "PLEXI FRONTALE STAMPATO dd60 TOUCH",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "500.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-901-1",
+    "nome": "",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "400.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD60-909-1-GU",
+    "nome": "PANNELLO PORTA MONOLITICO DD60 SP.10 MM",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "730.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DD8-900-1",
+    "nome": "PLEXIGLASS DP8 NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "210.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-100",
+    "nome": "FRONTALINO INS. MONETE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "15.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-110",
+    "nome": "CORNICE PLEXIGLASS RITIRO MONETE DP16-8",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "8.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-202",
+    "nome": "CORNICE PLEXIGLASS ACCETTATORE BANCONOTE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "12.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-900-1",
+    "nome": "CORNICE OBLO' SERIGRAFATA DP16",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "160.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-905-1",
+    "nome": "DP16 Pannello Plexiglass frontale pulsantiera in anti uv",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "120.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-910",
+    "nome": "CORNICE PLEXIGLASS RITIRO PRODOTTO DP16-8",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "30.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-912",
+    "nome": "DP16 Frontale bacheca \"legenda\" plexiglass anti uv",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP16-915",
+    "nome": "CORNICE PLEXIGLASS STAMPANTE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "10.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP18-KIT-11",
+    "nome": "PLEXIGLASS PORTA DP18 TASTI SERIGRAFATO + IMBALLO BLU FUORI PRODUZIONE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "295.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-950-V",
+    "nome": "PLEXIGLASS FRONTALE VERDE CON STELLINE E LOGO DP30",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-950A",
+    "nome": "Plexiglass frontale DP30",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "550.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-951",
+    "nome": "PLEXIGLASS BLU CON LOGO - NEW LISTELLI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "550.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-951-BB",
+    "nome": "PLEXIGLASS BIANCO SENZA LOGO - NEW LISTELLI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP30-951-NL",
+    "nome": "PLEXIGLASS BLU SENZA LOGO - NEW LISTELLI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "550.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-900-1",
+    "nome": "PLEXIGLASS DP40 CON LOGO NUOVA GRAFICA DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "480.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-900-1GU",
+    "nome": "PLEXI DP40 CON LOGO - GUCCI",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "500.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-900-1N",
+    "nome": "PLEXIGLASS DP40 SENZA LOGO DUREX DP40",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "160.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-925-1GR",
+    "nome": "PLEXIGLASS TASTIERA GRIGIO PER DP40",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "80.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-936-1",
+    "nome": "PLEXI SOLO QR DP40",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP40-952",
+    "nome": "LEXAN TETTOIA DP40",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-900-1",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO BLU CON LOGO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "720.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-900-1BB",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO BIANCO BLU NO LOGO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-900-1BV",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO BIANCO VERDE NO LOGO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-900-1N",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO BLU NO LOGO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-900-1V",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO VERDE NO LOGO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-900-1VD",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO VERDE CON LOGO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-902-1",
+    "nome": "Plexiglass frontale inferiore dp60 serigrafo BLU",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-902-1BB",
+    "nome": "PLEXIGLASS FRONTALE INFERIORE DP60 BIANCO BLU",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-902-1BV",
+    "nome": "PLEXIGLASS FRONTALE INFERIORE DP60 BIANCO VERDE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-902-1V",
+    "nome": "PLEXIGLASS FRONTALE INFERIORE DP60 VERDE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-920-1",
+    "nome": "PLEXIGLASS TASTIERA DP60 SERIGRAFATO BLU",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "70.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-920-1BB",
+    "nome": "PLEXIGLASS TASTIERA DP60 SERIGRAFATO BIANCO BLU",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-920-1BV",
+    "nome": "PLEXIGLASS TASTIERA DP60 SERIGRAFATO BIANCO VERDE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-920-1V",
+    "nome": "PLEXIGLASS TASTIERA DP60 SERIGRAFATO VERDE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-928",
+    "nome": "ADESIVO PER SPORT. RIT. PROD. DP60",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "18.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-929-1",
+    "nome": "PLEXIGLASS FRONTALE PK3 E STAMPANTE BLU",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "39.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-929-1BB",
+    "nome": "PLEXIGLASS FRONTALE PK3 E STAMPANTE BIANCO BLU",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-929-1BV",
+    "nome": "PLEXIGLASS FRONTALE PK3 E STAMPANTE BIANCO VERDE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-929-1V",
+    "nome": "PLEXIGLASS FRONTALE PK3 E STAMPANTE VERDE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-930-1GR",
+    "nome": "FRONTALE PER STAMPANTE DP60 - PLEXIGLASS CON STAMPA GRIGIO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "39.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-933-1GU",
+    "nome": "PANNELLO VERS.DUREX 2023 PER POS SELF4000 + QR CODE",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "390.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-960-1",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO BLU CON LOGO DUREX NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "720.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-960-1GR",
+    "nome": "PANNELLO PORTA DP60 GRIGIO DUREX CON LOGO - PLEXI \"DUREX 2020\"",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "720.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-960-1GRN",
+    "nome": "PANNELLO PORTA DP60 GRIGIO DUREX SENZA LOGO - PLEXI - \"DUREX 2020\"",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "720.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-960-1GU",
+    "nome": "PANNELLO PORTA DP60 DUREX CON LOGO - VERS DUREX 2023",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "720.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-960-1N",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO BLU SENZA LOGO DUREX NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-960-1VD",
+    "nome": "PLEXIGLASS PORTA ANTERIORE DP60 SERIGRAFATO VERDE CON LOGO DUREX NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-962-1",
+    "nome": "PLEXIGLASS FRONTALE INFERIORE DP60 BLU NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-962-1GR",
+    "nome": "FRONTALE INFERIORE DP60 - PLEXIGLASS CON STAMPA DIRETTA GRIGIO DUREX",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "250.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-962-1V",
+    "nome": "PLEXIGLASS FRONTALE INFERIORE DP60 VERDE NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-963-1",
+    "nome": "PLEXIGLASS TASTIERA DP60 SERIGRAFATO BLU NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "70.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-963-1GR",
+    "nome": "TASTIERA DP60 GRIGIO DUREX - PLEXIGLASS CON STAMPA DIRETTA",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "70.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-963-1V",
+    "nome": "PLEXIGLASS TASTIERA DP60 SERIGRAFATO VERDE NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-965-1GR",
+    "nome": "FRONTALE PER POS INGIENICO X DP60 - PLEXI C/STAMPA GRIGIA \"DUREX 2020\"",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "75.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-969-1",
+    "nome": "PLEXIGLASS FRONTALE PK3 E STAMPANTE BLU NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "39.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60-969-1V",
+    "nome": "PLEXIGLASS FRONTALE PK3 E STAMPANTE VERDE NEW",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "DP60Q-956A",
+    "nome": "PLEXIGLASS CORNICE TASTIERA ANTIVANDALO SEMITRASPARENTE DP40 E DP30",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-70.240.90.006-D",
+    "nome": "Kit plexiglass 4 pezzi per DP24 (porta - vano periferiche - centrale - tettoia)",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "350.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH4-KIT-01",
+    "nome": "KIT Tettoia per DP36",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "MH6-900",
+    "nome": "PANNELLO FRONTALE MH6 IN PLEXI SP.2 GRAFICA MH",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "150.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VETR-001",
+    "nome": "Vetrocamera DP60",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "240.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VETR-002",
+    "nome": "Vetrocamera DP30",
+    "categoria": "PLEXIGLASS",
+    "prezzo": "180.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VETR-003-B",
+    "nome": "Vetrocamera DP40",
+    "categoria": "VETRO",
+    "prezzo": "330.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VETR-003-T",
+    "nome": "VETROCAMERA DP40 CON VETRO TEMPERATO",
+    "categoria": "VETRO",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VETR-004",
+    "nome": "Vetrocamera DD60 TOUCH SENZA filtro UV",
+    "categoria": "VETRO",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VETR-004-T",
+    "nome": "VETROCAMERA DD60 TOUCH CON VETRO TEMPERATO",
+    "categoria": "VETRO",
+    "prezzo": "",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "VETR-004B",
+    "nome": "Vetrocamera DD60 Touch",
+    "categoria": "VETRO",
+    "prezzo": "330.0",
+    "link_img": "",
+    "modello": ""
+  },
+  {
+    "codice": "STAMP-KIT-NIP01",
+    "nome": "Kit stampante Nippon completa di mascherina",
+    "categoria": "cablaggi e staffe di fissaggio",
+    "prezzo": "",
+    "link_img": "350",
+    "modello": ""
+  }
+]
