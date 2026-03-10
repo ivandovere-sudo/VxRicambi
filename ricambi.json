@@ -552,6 +552,14 @@
     "modello": ""
   },
   {
+    "codice": "MCV1478",
+    "nome": "CAVO SANEI HRS",
+    "categoria": "CABLAGGI",
+    "prezzo": "12.5",
+    "link_img": "",
+    "modello": "DD60 Touch, DD18 Touch, DS100"
+  },
+  {
     "codice": "MCV1494",
     "nome": "CAVO CCTALK 200CM CASSETTI",
     "categoria": "CABLAGGI",
