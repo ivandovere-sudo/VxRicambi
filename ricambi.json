@@ -3616,6 +3616,14 @@
     "modello": ""
   },
   {
+    "codice": "LB-002",
+    "nome": "LETTORE BANCONOTE V7P ICT",
+    "categoria": "PERIFERICHE",
+    "prezzo": "400",
+    "link_img": "",
+    "modello": "DP8, DP18, DS100, DS20"
+  },
+  {
     "codice": "MD-MH446-A-SD5",
     "nome": "MOTOR DISPENSER SD5 PARALLELO (DP16)",
     "categoria": "PERIFERICHE",
