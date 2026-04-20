@@ -3592,6 +3592,14 @@
     "modello": ""
   },
   {
+    "codice": "GDS-KIT-QR",
+    "nome": "KIT Sensore Impronta DIGIT - IT MH",
+    "categoria": "PERIFERICHE",
+    "prezzo": "226",
+    "link_img": "",
+    "modello": "DS40, DS50, DS60, DS55, DS100"
+  },
+  {
     "codice": "GETT-P10-CCTALK",
     "nome": "GETT. P10 CCTALK PER DP18 E PAYPOINT",
     "categoria": "PERIFERICHE",
