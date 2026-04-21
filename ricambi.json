@@ -328,6 +328,14 @@
     "modello": ""
   },
   {
+    "codice": "LOCK-SERR",
+    "nome": "Serratura tubolare per pannello inferiore Locker",
+    "categoria": "ACCESSORI",
+    "prezzo": "20",
+    "link_img": "",
+    "modello": "Locker"
+  },
+  {
     "codice": "LUCCH-4115",
     "nome": "Lucchetto Viro Panzer 4115 - DP18-16-8",
     "categoria": "ACCESSORI",
