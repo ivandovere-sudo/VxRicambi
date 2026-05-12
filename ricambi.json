@@ -280,6 +280,14 @@
     "modello": ""
   },
   {
+    "codice": "DS-KIT-FP",
+    "nome": "Kit impronta digitale",
+    "categoria": "ACCESSORI",
+    "prezzo": "",
+    "link_img": "",
+    "modello": "DS40, DS50, DS60, DS55, DS100, DS20"
+  },
+  {
     "codice": "GDP-KIT-MAN",
     "nome": "Kit avviso manutenzioni periodiche: Adesivo + brugola",
     "categoria": "ACCESSORI",
