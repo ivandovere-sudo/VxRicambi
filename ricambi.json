@@ -1953,7 +1953,7 @@
   },
   {
     "codice": "STR-LED-LENS-4511",
-    "nome": "Led Lens Module 2835 160° 12v ip65 6500k OPT4511",
+    "nome": "Led Lens Module 2835 160Â° 12v ip65 6500k OPT4511",
     "categoria": "ELETTRONICA",
     "prezzo": "",
     "link_img": "",
@@ -1977,7 +1977,7 @@
   },
   {
     "codice": "VENT-01",
-    "nome": "Ventola 12V 4.1W DP18-16-10-8-60 (Alta velocità)",
+    "nome": "Ventola 12V 4.1W DP18-16-10-8-60 (Alta velocitÃ )",
     "categoria": "ELETTRONICA",
     "prezzo": "18.0",
     "link_img": "",
@@ -1985,7 +1985,7 @@
   },
   {
     "codice": "VENT-8X8-12.1",
-    "nome": "Ventola 12V 1.8W DP18-16-10-8-60 (Bassa velocità)",
+    "nome": "Ventola 12V 1.8W DP18-16-10-8-60 (Bassa velocitÃ )",
     "categoria": "ELETTRONICA",
     "prezzo": "13.0",
     "link_img": "",
@@ -3057,7 +3057,7 @@
   },
   {
     "codice": "DS20-171",
-    "nome": "Copertura lettore di Età e Sanei",
+    "nome": "Copertura lettore di EtÃ  e Sanei",
     "categoria": "MECCANICA",
     "prezzo": "",
     "link_img": "",
@@ -3337,7 +3337,7 @@
   },
   {
     "codice": "2-00-0123-00 (NON USARE)",
-    "nome": "RENDI RESTO MEI 5 TUBI CONFIG. DAC 1x2€ 2x1€ 1x0.50€ 1x0.10€",
+    "nome": "RENDI RESTO MEI 5 TUBI CONFIG. DAC 1x2â¬ 2x1â¬ 1x0.50â¬ 1x0.10â¬",
     "categoria": "PERIFERICHE",
     "prezzo": "530.0",
     "link_img": "",
@@ -3353,7 +3353,7 @@
   },
   {
     "codice": "2-00-0123-01",
-    "nome": "RENDI RESTO MEI - 2x2€ 2x1€ 1x0.50€ (X FARMACIA)",
+    "nome": "RENDI RESTO MEI - 2x2â¬ 2x1â¬ 1x0.50â¬ (X FARMACIA)",
     "categoria": "PERIFERICHE",
     "prezzo": "530.0",
     "link_img": "",
@@ -3361,7 +3361,7 @@
   },
   {
     "codice": "2-00-0125-00",
-    "nome": "RENDI RESTO NRI 2x2€ - 2x1€ - 2x0.5€",
+    "nome": "RENDI RESTO NRI 2x2â¬ - 2x1â¬ - 2x0.5â¬",
     "categoria": "PERIFERICHE",
     "prezzo": "450.0",
     "link_img": "",
