@@ -1376,6 +1376,14 @@
     "modello": ""
   },
   {
+    "codice": "GDP40-FRIGO",
+    "nome": "FRIGO NUOVO CABLATO + TERMOSTATO",
+    "categoria": "ELETTRONICA",
+    "prezzo": "850",
+    "link_img": "",
+    "modello": "DP40"
+  },
+  {
     "codice": "HUB-001",
     "nome": "HUB USB 4 PORTE",
     "categoria": "ELETTRONICA",
